@@ -1,0 +1,28 @@
+{
+  "name": "person-api",
+  "version": "1.0.0",
+  "description": "CRUD de pessoas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 5000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillSerafim/personApp.git"
+  },
+  "keywords": [
+    "CRUD",
+    "person",
+    "json-server"
+  ],
+  "author": "WillSerafim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WillSerafim/personApp/issues"
+  },
+  "homepage": "https://github.com/WillSerafim/person-api#readme",
+  "dependencies": {
+    "json-server": "0.13.0"
+  }
+}

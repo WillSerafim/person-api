@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "name": "willian serafim",
+      "email": "willian@serafim.com"
+    },
+    {
+      "id": 2,
+      "name": "alexandre zamperlini",
+      "email": "alexandre@zamperlini.com"
+    },
+    {
+      "id": 3,
+      "name": "jordan navarro",
+      "email": "jordan@navarro.com"
+    },
+    {
+      "id": 4,
+      "name": "sthefani silveira",
+      "email": "sthefani@silveira.com"
+    }
+  ]
+}
